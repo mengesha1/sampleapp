@@ -7,7 +7,7 @@
     <body>
 
 
- <p id="js"> Cloud / DevOps Engineers SAM,Maror,Fevn and Menge !</p>     
+ <p id="js"> Cloud / DevOps Engineers SAM,Major,Fevn and Menge !</p>     
 
 <button onclick="myFunction()">Click Me!</button>
 
