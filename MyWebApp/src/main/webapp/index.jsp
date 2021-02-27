@@ -6,7 +6,7 @@
   <h2><strong><em> Welcome to DevOps HUB !</em><strong> </h2>
     <body>
 
-<p id="js">Welcome to DevOps/ HUB !</p>
+
  <p id="js"> Cloud / DevOps Engineers SAM,Maror,Fevn and Menge !</p>     
 
 <button onclick="myFunction()">Click Me!</button>
